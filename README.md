@@ -10,3 +10,6 @@ El aplicativo permite ver a detalle la información de los anuncios de venta de 
 ## Aplicativo web implementado en streamlit    
 - Pandas 
 - Plotly
+
+## La aplicación web se puede acceder en el siguiente enlance 
+https://sprint-7-fp7l.onrender.com/
